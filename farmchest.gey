@@ -9,7 +9,7 @@ end
 
 local name, version = identifyexecutor()
 
-if name == "Solara" or name == "Nezur" or name == "Xeno" or name == "Zorara" then
+if name == "Solara" or name == "Xeno" then
     players.LocalPlayer:Kick("Unsupported Executor: " .. name)
     return
 end
