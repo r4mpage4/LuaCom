@@ -1,1 +1,2 @@
-game.Players.LocalPlayer:Kick("Script is down, Please Try Again Later.")
+game.Players.LocalPlayer:Kick("Script is down, Please try again Later. Discord: https://discord.gg/rK3FWwc3ze")
+setclipboard("https://discord.gg/rK3FWwc3ze") 
