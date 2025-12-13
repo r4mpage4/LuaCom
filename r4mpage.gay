@@ -4,7 +4,7 @@ local player = Players.LocalPlayer
 local name = identifyexecutor()
 
 if name == "Solara" or name == "Xeno" then
-    player:Kick("Unsupported Exploit")
+    player:Kick("Unsupported Executor!")
 else
     loadstring(game:HttpGet(
         "https://raw.githubusercontent.com/r4mpage4/bypass/refs/heads/main/Supported.lua"
